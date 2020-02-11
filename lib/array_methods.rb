@@ -5,7 +5,7 @@ length.times do | index |
     return array.index
   else 
     counter +=1
-
+end
  
  
  
