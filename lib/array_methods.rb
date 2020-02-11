@@ -6,7 +6,7 @@ array.length.times do | index |
 
  end
  
- 
+ end
 end
 
 def find_max_value(array)
