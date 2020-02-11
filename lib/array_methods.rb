@@ -3,7 +3,7 @@ counter = 0
 while counter < array.length do
   puts counter if array[counter] === value_to_find
   else counter +=1
-  end
+
  
  
  
